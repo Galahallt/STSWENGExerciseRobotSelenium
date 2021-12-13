@@ -168,7 +168,7 @@ Ascending Product Prices
   [Teardown]  Close Browser
 
 # 8 - Sort product price (high to low)
-Ascending Product Prices
+Descending Product Prices
   Open Browser  ${EXER_URL}    ${BROWSER}
   Maximize Browser Window
   Page Should Contain Element   login-button
